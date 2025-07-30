@@ -4,8 +4,8 @@
 
 ### 🔸 Home Screen
 
-![Home](screenshot/home.PNG)
+![Home](assets/screenshot/home.PNG)
 
 ### 🔸 Details Screen
 
-![Details](screenshot/details.PNG)
+![Details](assets/screenshot/details.PNG)
